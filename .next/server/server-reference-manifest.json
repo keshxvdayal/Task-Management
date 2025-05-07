@@ -1,84 +1,54 @@
 {
   "node": {
-    "e8b078bbb2051c323493b3ad307ca5966384ddfc": {
+    "c756930984315af41ca2602b129d1fcd86a50af6": {
       "workers": {
-        "app/(dashboard)/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Fdashboard%2Factions.ts%22%2C%5B%22recentTasksAction%22%5D%5D%5D&__client_imported__=!"
+        "app/(dashboard)/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2FTask-Management%2Fapp%2F(dashboard)%2Fdashboard%2Factions.ts%22%2C%5B%22recentTasksAction%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
         "app/(dashboard)/dashboard/page": "rsc"
       }
     },
-    "25f38159f284328fe202b9a8533f62bb7efd0887": {
+    "0c8a82a2991445703f82e0b92c12c81d351e4f6c": {
       "workers": {
-        "app/(dashboard)/tasks/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=!",
-        "app/(dashboard)/tasks/new/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/(dashboard)/tasks/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/(dashboard)/tasks/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/(dashboard)/tasks/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2FTask-Management%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22deleteTaskAction%22%2C%22getAllTasksAction%22%2C%22updateTaskStatusAction%22%2C%22updateTaskAction%22%2C%22createTaskAction%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/(dashboard)/tasks/page": "rsc",
-        "app/(dashboard)/tasks/new/page": "action-browser",
-        "app/(dashboard)/tasks/[id]/edit/page": "action-browser",
-        "app/(dashboard)/tasks/[id]/page": "action-browser"
+        "app/(dashboard)/tasks/page": "rsc"
       }
     },
-    "517bb3e7133ea087c7adcd14d6f10943e820055e": {
+    "132fe77c88effd3ca3dea0684644fe5c816dd869": {
       "workers": {
-        "app/(dashboard)/tasks/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=!",
-        "app/(dashboard)/tasks/new/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/(dashboard)/tasks/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/(dashboard)/tasks/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/(dashboard)/tasks/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2FTask-Management%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22deleteTaskAction%22%2C%22getAllTasksAction%22%2C%22updateTaskStatusAction%22%2C%22updateTaskAction%22%2C%22createTaskAction%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/(dashboard)/tasks/page": "rsc",
-        "app/(dashboard)/tasks/new/page": "action-browser",
-        "app/(dashboard)/tasks/[id]/edit/page": "action-browser",
-        "app/(dashboard)/tasks/[id]/page": "action-browser"
+        "app/(dashboard)/tasks/page": "rsc"
       }
     },
-    "5200f4338f1e1b154b7209529fff8ed8bf69bdef": {
+    "139f8b4bbd6f3151f9a7f53d4d88a6e1dc8ed34a": {
       "workers": {
-        "app/(dashboard)/tasks/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=!",
-        "app/(dashboard)/tasks/new/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/(dashboard)/tasks/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/(dashboard)/tasks/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/(dashboard)/tasks/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2FTask-Management%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22deleteTaskAction%22%2C%22getAllTasksAction%22%2C%22updateTaskStatusAction%22%2C%22updateTaskAction%22%2C%22createTaskAction%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/(dashboard)/tasks/page": "rsc",
-        "app/(dashboard)/tasks/new/page": "action-browser",
-        "app/(dashboard)/tasks/[id]/edit/page": "action-browser",
-        "app/(dashboard)/tasks/[id]/page": "action-browser"
+        "app/(dashboard)/tasks/page": "rsc"
       }
     },
-    "9d60321fc3a991d7ec40d098dbf485299c9218c6": {
+    "1e74bbd6541633c96a8b499caf289a089f6a2e99": {
       "workers": {
-        "app/(dashboard)/tasks/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=!",
-        "app/(dashboard)/tasks/new/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/(dashboard)/tasks/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/(dashboard)/tasks/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/(dashboard)/tasks/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2FTask-Management%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22deleteTaskAction%22%2C%22getAllTasksAction%22%2C%22updateTaskStatusAction%22%2C%22updateTaskAction%22%2C%22createTaskAction%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/(dashboard)/tasks/page": "rsc",
-        "app/(dashboard)/tasks/new/page": "action-browser",
-        "app/(dashboard)/tasks/[id]/edit/page": "action-browser",
-        "app/(dashboard)/tasks/[id]/page": "action-browser"
+        "app/(dashboard)/tasks/page": "rsc"
       }
     },
-    "d13f0c1c9cb3be3076717e119dde17366dff05e5": {
+    "ad300139a940c2ded578782194cff703e359282d": {
       "workers": {
-        "app/(dashboard)/tasks/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=!",
-        "app/(dashboard)/tasks/new/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/(dashboard)/tasks/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=true!",
-        "app/(dashboard)/tasks/[id]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2Ftask%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22updateTaskAction%22%2C%22updateTaskStatusAction%22%2C%22deleteTaskAction%22%2C%22createTaskAction%22%2C%22getAllTasksAction%22%5D%5D%5D&__client_imported__=true!"
+        "app/(dashboard)/tasks/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fkeshavdayal%2FDesktop%2Ftemplate%2FTask-Management%2Fapp%2F(dashboard)%2Ftasks%2Factions.ts%22%2C%5B%22deleteTaskAction%22%2C%22getAllTasksAction%22%2C%22updateTaskStatusAction%22%2C%22updateTaskAction%22%2C%22createTaskAction%22%5D%5D%5D&__client_imported__=!"
       },
       "layer": {
-        "app/(dashboard)/tasks/page": "rsc",
-        "app/(dashboard)/tasks/new/page": "action-browser",
-        "app/(dashboard)/tasks/[id]/edit/page": "action-browser",
-        "app/(dashboard)/tasks/[id]/page": "action-browser"
+        "app/(dashboard)/tasks/page": "rsc"
       }
     }
   },
   "edge": {},
-  "encryptionKey": "E7IhwkmB4Ds2k1nSsDVuLSyi8ubVwhys05vm+pCeKW0="
+  "encryptionKey": "qFaK9XKVqnBtUKHnnWEpZ6wkoRW/1ysCPDVSMwC5lzg="
 }

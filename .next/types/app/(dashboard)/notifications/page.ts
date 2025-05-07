@@ -1,4 +1,4 @@
-// File: /Users/keshavdayal/Desktop/template/task/app/(dashboard)/notifications/page.tsx
+// File: /Users/keshavdayal/Desktop/template/Task-Management/app/(dashboard)/notifications/page.tsx
 import * as entry from '../../../../../app/(dashboard)/notifications/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -11,7 +11,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Task Management System",
   description: "A comprehensive task management system for teams",
-    generator: 'v0.dev'
+    generator: 'Task Management System'
 }
 
 export default function RootLayout({
